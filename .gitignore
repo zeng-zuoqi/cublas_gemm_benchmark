@@ -1,0 +1,11 @@
+build
+
+# vscode
+.vscode
+
+# jetbrain
+.idea
+
+# clion build
+cmake-build-*
+
